@@ -11,5 +11,4 @@ public class FindBig {
         }
         System.out.println(temp);
     }
-
 }

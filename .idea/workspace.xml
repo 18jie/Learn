@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="2dcc5519-5d58-4db7-b6f1-d9f62ecc9d23" name="Default" comment="two Time">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/java/learGitHub/FindBig.java" afterPath="$PROJECT_DIR$/src/java/learGitHub/FindBig.java" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -29,8 +30,8 @@
       <file leaf-file-name="FindBig.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/java/learGitHub/FindBig.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="189">
-              <caret line="7" column="32" lean-forward="true" selection-start-line="7" selection-start-column="32" selection-end-line="7" selection-end-column="32" />
+            <state relative-caret-position="135">
+              <caret line="5" column="21" lean-forward="true" selection-start-line="5" selection-start-column="21" selection-end-line="5" selection-end-column="21" />
               <folding />
             </state>
           </provider>
@@ -238,7 +239,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1521800636323</updated>
-      <workItem from="1521800637806" duration="2302000" />
+      <workItem from="1521800637806" duration="2433000" />
     </task>
     <task id="LOCAL-00001" summary="one time">
       <created>1521801642778</created>
@@ -258,7 +259,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2302000" />
+    <option name="totallyTimeSpent" value="2433000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="220" y="14" width="1400" height="990" extended-state="0" />
@@ -331,8 +332,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/java/learGitHub/FindBig.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="189">
-          <caret line="7" column="32" lean-forward="true" selection-start-line="7" selection-start-column="32" selection-end-line="7" selection-end-column="32" />
+        <state relative-caret-position="135">
+          <caret line="5" column="21" lean-forward="true" selection-start-line="5" selection-start-column="21" selection-end-line="5" selection-end-column="21" />
           <folding />
         </state>
       </provider>
