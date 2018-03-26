@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="2dcc5519-5d58-4db7-b6f1-d9f62ecc9d23" name="Default" comment="two Time">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/README.md" />
+    <list default="true" id="2dcc5519-5d58-4db7-b6f1-d9f62ecc9d23" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/README.md" afterPath="$PROJECT_DIR$/README.md" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -77,11 +77,6 @@
               <item name="Learn" type="b2602c69:ProjectViewProjectNode" />
               <item name="Learn" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="Learn" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Learn" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
@@ -95,6 +90,12 @@
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="settings.github" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\githubData\Learn" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -205,7 +206,7 @@
       <option name="presentableId" value="Default" />
       <updated>1521800636323</updated>
       <workItem from="1521800637806" duration="2506000" />
-      <workItem from="1522075490015" duration="106000" />
+      <workItem from="1522075490015" duration="272000" />
     </task>
     <task id="LOCAL-00001" summary="one time">
       <created>1521801642778</created>
@@ -221,11 +222,18 @@
       <option name="project" value="LOCAL" />
       <updated>1521801805418</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="submit readme">
+      <created>1522075623676</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1522075623677</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2612000" />
+    <option name="totallyTimeSpent" value="2778000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="220" y="14" width="1400" height="990" extended-state="0" />
@@ -277,7 +285,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="one time" />
     <MESSAGE value="two Time" />
-    <option name="LAST_COMMIT_MESSAGE" value="two Time" />
+    <MESSAGE value="submit readme" />
+    <option name="LAST_COMMIT_MESSAGE" value="submit readme" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -316,7 +325,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/README.md">
+    <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="27">
