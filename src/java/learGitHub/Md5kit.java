@@ -5,6 +5,11 @@ import java.security.NoSuchAlgorithmException;
 
 public class Md5kit {
 
+    /**
+     * 十六进制md5加密,不可逆
+     * @param inStr
+     * @return
+     */
     public static String string2MD5(String inStr){
         MessageDigest md5 = null;
         try{
@@ -31,6 +36,11 @@ public class Md5kit {
 
     }
 
+    /**
+     * 加密解密合一算法,执行一次加密,执行两次解密
+     * @param inStr
+     * @return
+     */
     public static String convertMD5(String inStr) {
         char[] a = inStr.toCharArray();
         for (int i = 0; i < a.length; i++) {
